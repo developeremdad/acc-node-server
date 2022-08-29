@@ -1,0 +1,2 @@
+This is node js read file template. now i will test this file reading from another node file.
+get started !.
